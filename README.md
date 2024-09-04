@@ -13,7 +13,7 @@
 
 
 ## Project Overview
-This project aims to address challenges in the copper industry related to pricing prediction and lead classification using machine learning techniques.
+This project solves the challenges in the copper industry related to pricing prediction and lead classification using machine learning techniques.
 
 ## Problem Statement
 The copper industry faces challenges with skewed and noisy data affecting pricing decisions and lead classification. Machine learning models can address these issues by utilizing advanced techniques and algorithms.
